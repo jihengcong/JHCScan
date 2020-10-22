@@ -1,6 +1,6 @@
 //
 //  JHCQRCodeManager.h
-//  JHCScanDemo
+//  JHCScan
 //
 //  Created by mac on 2020/10/21.
 //
